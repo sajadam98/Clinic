@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b2kbe3yLFDQcxGWObBU7flB/a3sfWlStgS15TO5y31Q=",
+  "Source": "Clinic.RestApi",
+  "BasePath": "_content/Clinic.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

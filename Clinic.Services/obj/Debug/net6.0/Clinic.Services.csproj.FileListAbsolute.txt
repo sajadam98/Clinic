@@ -1,0 +1,17 @@
+G:\backend\Clinic\Clinic.Services\bin\Debug\net6.0\Clinic.Services.deps.json
+G:\backend\Clinic\Clinic.Services\bin\Debug\net6.0\Clinic.Services.dll
+G:\backend\Clinic\Clinic.Services\bin\Debug\net6.0\Clinic.Services.pdb
+G:\backend\Clinic\Clinic.Services\bin\Debug\net6.0\Clinic.Entities.dll
+G:\backend\Clinic\Clinic.Services\bin\Debug\net6.0\Clinic.Infrastructure.dll
+G:\backend\Clinic\Clinic.Services\bin\Debug\net6.0\Clinic.Entities.pdb
+G:\backend\Clinic\Clinic.Services\bin\Debug\net6.0\Clinic.Infrastructure.pdb
+G:\backend\Clinic\Clinic.Services\obj\Debug\net6.0\Clinic.Services.csproj.AssemblyReference.cache
+G:\backend\Clinic\Clinic.Services\obj\Debug\net6.0\Clinic.Services.GeneratedMSBuildEditorConfig.editorconfig
+G:\backend\Clinic\Clinic.Services\obj\Debug\net6.0\Clinic.Services.AssemblyInfoInputs.cache
+G:\backend\Clinic\Clinic.Services\obj\Debug\net6.0\Clinic.Services.AssemblyInfo.cs
+G:\backend\Clinic\Clinic.Services\obj\Debug\net6.0\Clinic.Services.csproj.CoreCompileInputs.cache
+G:\backend\Clinic\Clinic.Services\obj\Debug\net6.0\Clinic.Services.csproj.CopyComplete
+G:\backend\Clinic\Clinic.Services\obj\Debug\net6.0\Clinic.Services.dll
+G:\backend\Clinic\Clinic.Services\obj\Debug\net6.0\refint\Clinic.Services.dll
+G:\backend\Clinic\Clinic.Services\obj\Debug\net6.0\Clinic.Services.pdb
+G:\backend\Clinic\Clinic.Services\obj\Debug\net6.0\ref\Clinic.Services.dll

@@ -1,0 +1,14 @@
+G:\backend\Clinic\Clinic.Entities\bin\Debug\net6.0\Clinic.Entities.deps.json
+G:\backend\Clinic\Clinic.Entities\bin\Debug\net6.0\Clinic.Entities.runtimeconfig.json
+G:\backend\Clinic\Clinic.Entities\bin\Debug\net6.0\Clinic.Entities.dll
+G:\backend\Clinic\Clinic.Entities\bin\Debug\net6.0\Clinic.Entities.pdb
+G:\backend\Clinic\Clinic.Entities\obj\Debug\net6.0\Clinic.Entities.csproj.AssemblyReference.cache
+G:\backend\Clinic\Clinic.Entities\obj\Debug\net6.0\Clinic.Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\backend\Clinic\Clinic.Entities\obj\Debug\net6.0\Clinic.Entities.AssemblyInfoInputs.cache
+G:\backend\Clinic\Clinic.Entities\obj\Debug\net6.0\Clinic.Entities.AssemblyInfo.cs
+G:\backend\Clinic\Clinic.Entities\obj\Debug\net6.0\Clinic.Entities.csproj.CoreCompileInputs.cache
+G:\backend\Clinic\Clinic.Entities\obj\Debug\net6.0\Clinic.Entities.dll
+G:\backend\Clinic\Clinic.Entities\obj\Debug\net6.0\refint\Clinic.Entities.dll
+G:\backend\Clinic\Clinic.Entities\obj\Debug\net6.0\Clinic.Entities.pdb
+G:\backend\Clinic\Clinic.Entities\obj\Debug\net6.0\Clinic.Entities.genruntimeconfig.cache
+G:\backend\Clinic\Clinic.Entities\obj\Debug\net6.0\ref\Clinic.Entities.dll
